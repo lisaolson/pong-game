@@ -1,0 +1,9 @@
+
+* {
+    margin: 0;
+}
+
+#gameCanvas {
+   display: flex;
+   align-content: center;
+}
